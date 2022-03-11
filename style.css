@@ -199,7 +199,7 @@ a.active,a:hover{
 }
   
    .f-links{
-     margin-left:130px;
+     margin-left:50px;
      margin-top:100px;
      line-height: 1.8;
      font-size:15px;
@@ -223,7 +223,7 @@ a.active,a:hover{
   }
   
    .f-links{
-     margin-left:130px;
+     margin-left:50px;
      margin-top:100px;
      line-height: 1.8;
      font-size:15px;
@@ -276,7 +276,7 @@ a.active,a:hover{
      padding-right:30px;
      margin-top:60px;
       width:80%;
-     line-height: 1.6;
+     line-height: 1.5;
      font-size:17px;
      background-image:linear-gradient(purple,red);
      border-radius:60px;
@@ -296,7 +296,7 @@ a.active,a:hover{
      color:black;
      
  }
-#s-link:visited,.b-link{
+#s-link:visited,.b-link:visited{
      color:white;
  }
  
