@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 body{
-  font-family: 'Open Sans';
+   font-family: Arial,sans-serif;
    background-image: url('fb-bg.jpg');
    background-repeat: no-repeat;
    background-attachment: fixed;
