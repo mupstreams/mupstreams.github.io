@@ -200,6 +200,12 @@ a.active,a:hover{
      line-height: 1.8;
      font-size:15px;
  }
+   #s-link{
+      font-size:13px;
+  }
+  #heading{
+      font-size: 18px;
+  }
 }
 
 
@@ -223,6 +229,12 @@ a.active,a:hover{
         width:220px;
         heigth:200px
 }
+   #s-link{
+      font-size:13px;
+  }
+  #heading{
+      font-size: 18px;
+  }
 }
 
 
