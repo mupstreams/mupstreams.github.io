@@ -243,8 +243,6 @@ a.active,a:hover{
   }
 }
 
-
-
 .active{
     background: none;
     color: black;
@@ -255,14 +253,7 @@ a.active,a:hover{
      font-weight:700;
      font-size: 18px;
    }
-   
-  #heading:hover{
-      color:black;
-      background: none;
-      
-  }
- 
-  
+     
   .glow{
       font-size:35px;
       color:red;
@@ -290,12 +281,6 @@ a.active,a:hover{
      color:white;
  } 
 
- #s-link:hover{
-     font-size: 26px;
-     opacity: 0.6;
-     color:black;
-     
- }
 #s-link:visited,.b-link:visited{
      color:white;
  }
