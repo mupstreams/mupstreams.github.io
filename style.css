@@ -298,6 +298,10 @@ a.active,a:hover{
   }
 
 
+.junk{
+  align-items:center;
+}
+
 .highs{
   width:80%;
   margin-left:10px;
