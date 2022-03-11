@@ -7,6 +7,10 @@
 }
 body{
   font-family: montserrat;
+   background-image: url('fb-bg.jpg');
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
 }
 nav{
   background: #69068a;
@@ -246,6 +250,8 @@ a.active,a:hover{
   
    #heading{
        color:black;
+     font-weight:700;
+     font-size: 18px;
    }
    
   #heading:hover{
@@ -265,20 +271,29 @@ a.active,a:hover{
 
  .f-links{
      margin-left:40px;
+    padding:30px;
      margin-top:100px;
      line-height: 1.6;
      font-size:22px;
      margin-right:30px;
+     background-image:linear-gradient(purple,red);
+     border-radius:60px;
+     
      
  }
- 
+
+
+.b-link{
+     color:white;
+ } 
+
  #s-link:hover{
      font-size: 26px;
      opacity: 0.6;
      color:black;
      
  }
-#s-link:visited{
-     color:blue;
+#s-link:visited,.b-link{
+     color:white;
  }
  
