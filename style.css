@@ -235,7 +235,9 @@ a.active,a:hover{
 }
    #s-link{
       font-size:13px;
+   
   }
+  
   #heading{
       font-size: 18px;
   }
@@ -300,3 +302,7 @@ a.active,a:hover{
      color:white;
  }
  
+ #s-link{
+      font-size:13px;
+     color:white;
+  }
